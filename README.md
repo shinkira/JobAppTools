@@ -44,13 +44,13 @@ pip install -r requirements.txt
 ## 🚀 Usage
 
 ```bash
-python jobads_checker.py
+python JobAdsChecker.py
 ```
 
 ### Debug mode (limit to 3 pages per site):
 
 ```bash
-python jobads_checker.py --debug
+python JobAdsChecker.py --debug
 ```
 
 An Excel file named `job_ads_YYMMDD_HHMMSS.xlsx` will be saved to a preset folder, depending on the computer you're running it on (defined in `computer_dirs`).
