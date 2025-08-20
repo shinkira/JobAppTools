@@ -1,4 +1,4 @@
-# 🧠 Neuroscience Job Ads Finder
+# 🧠 Neuroscience Job Ads Checker
 
 This Python script checks and filters neuroscience-related academic job postings from three major career platforms:
 
