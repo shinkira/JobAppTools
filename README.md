@@ -1,6 +1,6 @@
-# 🧠 Neuroscience Job Ads Scraper
+# 🧠 Neuroscience Job Ads Finder
 
-This Python script scrapes and filters neuroscience-related academic job postings from three major career platforms:
+This Python script checks and filters neuroscience-related academic job postings from three major career platforms:
 
 - **NeuroJobs (SfN)**
 - **Nature Careers**
@@ -12,7 +12,7 @@ It is designed to help researchers track tenure-track and assistant professor po
 
 ## 🔍 Features
 
-- Scrapes multiple pages of listings from each source
+- Checks multiple pages of listings from each source
 - Filters job ads using neuroscience- and position-related keywords
 - Extracts structured job metadata, including employer, location, description, and application URL
 - Parses and formats posting dates for consistent output
